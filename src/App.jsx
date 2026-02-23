@@ -22,7 +22,7 @@ function App() {
     }
   }
   return (
-    <div className='w-full max-h-full bg-blue-200 text-blue-900 h-210 p-20'
+    <div className='w-full max-h-full bg-white text-black bg-[url(/trend.jpg)] h-220 bg-cover bg-center p-20'
     >
       <h1 className='text-center text-5xl mb-30'>Currency Changer</h1>
       <div>
